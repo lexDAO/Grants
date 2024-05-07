@@ -4,7 +4,11 @@
 
 Inspired by https://thankarb.com/seasons/49?utm_campaign=GG20 , LexDAO Grants Committee is offering '$LxGrntCrd' reward points for contributions to LexGrants!
 
-Please send your $LxGrntCrd reward request to our credKali at https://app.kali.gg/daos/42161/0x03d5222ef39dfeefd68e0a1bc22811cee618db7c/propose !
+Please send your $LxGrntCrd reward request to our credKali at https://app.kali.gg/daos/42161/0x03d5222ef39dfeefd68e0a1bc22811cee618db7c/propose .
+
+We're still working on enumerated rewards at https://hackmd.io/VsaHxtmITRiiocz2ybRXlw#eligible-activities-for-rewards but feel free to email grants.lead@lexdao.org if you did or plan to do something that you think deserves an award. Please note that, so far, we're only contemplating activities that promote our projects on QF matching rounds.
+
+We'll decide later how $LxGrntCrd will be honored or redeemed for, but it'll likely include redemption for a max amount of hours contributed to work for membership.
 
 You do not need to be a [LexDAO member](https://lexdao.org/membership) to qualify.
 
@@ -93,7 +97,17 @@ Legal Stuff: LexDAO reserves the right to accept or reject any submissions for a
 
 Based on https://thankarb.com/listings/1089?seasonId=49 .
 
-### Host a Twitter/X Space featuring 5 or more Gitcoin grantees (at least one building on ARB) with over 50 listeners
+### shill lexdaogrant.us to over 50 listeners in a Twitter/X Space where you are not the host
+
+#### 25 LxGrntCrd
+
+Did you host an X/Twitter Space with over 50 listeners while you shilled lexdaogrant.us during the Space? Amazing!! Submit the link to the recorded X Space by by saving an "attest.txt" file with:
+
+| line 1 | line 2 | line 3 |
+| -------- | -------- | -------- |
+| a X/Twitter post thread URL     | timestamp when you shilled  | this attestation: "I promise not to trade $LxGrntCrd with another person unless a proposal passes in this credKali that allows me to do so"
+
+### Host a Twitter/X Space and shill lexdaogrant.us to over 50 listeners
 
 #### 50 LxGrntCrd
 
@@ -116,39 +130,3 @@ Our requirement is over 50%, but Kali defaults to at least 52%.
 We put 0.1 ETH in the $LxGrntCrd treasury to show how the Redemption mechanism could be used in the future, but the choice to allow that will be in LexDAO's sole discretion because, in part, we will always retain at least 52% of the supply.
 
 ![image](https://hackmd.io/_uploads/B1KCelvz0.png)
-
-## steps we took to complete this (draft)
-
-Have an EOA wallet on Metamask with some ETH.
-
-Buy a .ETH address at ENS.
-
-![image](https://hackmd.io/_uploads/SJ81QrHz0.png)
-
-Launch a Hat and its child.
-
-![image](https://hackmd.io/_uploads/S1HwmBrGR.png)
-
-![image](https://hackmd.io/_uploads/S1iD8HSfR.png)
-
-![image](https://hackmd.io/_uploads/HkV4ALHG0.png)
-
-![image](https://hackmd.io/_uploads/rk0D-DrGR.png)
-
-## next steps
-
-![image](https://hackmd.io/_uploads/HyH_08Sz0.png)
-
-![image](https://hackmd.io/_uploads/rkT6ALrf0.png)
-
-![image](https://hackmd.io/_uploads/rkJlLMDzR.png)
-
-![image](https://hackmd.io/_uploads/SkQfUGvGC.png)
-
-https://content.wrappr.wtf/ipfs/Qmev55MD7JcAh3Re3gLmUseJj4ThSfwt2M7j8X2yXd5Xqc
-
-`{"dao":"0x03d5222ef39dfeefd68e0a1bc22811cee618db7c","chainId":42161,"name":"Share a GG20 curated collection and post an X thread about 5 or more of your favorite lawtech GG20 grantees","tags":["LxGrntCrd"],"docs":"https://content.wrappr.wtf/ipfs/Qma3AV3h3hZGuazLYm68KycLPH6NbYoTyzDn8xMqAAvjhk"}`
-
-https://content.wrappr.wtf/ipfs/Qma3AV3h3hZGuazLYm68KycLPH6NbYoTyzDn8xMqAAvjhk
-
-![image](https://hackmd.io/_uploads/BkvY8zwzR.png)
