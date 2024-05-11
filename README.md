@@ -1,6 +1,22 @@
+# grant request process
+
+Please reach out to grants.lead@lexdao.org if you would like to request a grant. 
+
+Currently, we are only approving grants requested by LexDAO members 
+
+If your grant is approved, it'll go through this process:
+
+* after working with you on it, your request will be published by us at https://github.com/lexDAO/Grants/tree/main/request
+* our response will be published at https://github.com/lexDAO/Grants/tree/main/response
+* the outcome will be published at https://github.com/lexDAO/Grants/tree/main/outcome
+
+Most grants that get to the published Github request stage are approved, but not all. The ones that aren't approved still receive reasons about why we made the decision.
+
 # introducing $LxGrntCrd
 
 Active rewards are listed at https://github.com/lexDAO/Grants/tree/main/rewards .
+
+You do not need to be a [LexDAO member](https://lexdao.org/membership) to qualify.
 
 ## how to request a reward
 
