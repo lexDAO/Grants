@@ -74,7 +74,9 @@ Inspired by https://thankarb.com/seasons/49?utm_campaign=GG20 , LexDAO Grants Co
 
 Please send your $LxGrntCrd reward request to our credKali at https://app.kali.gg/daos/42161/0x03d5222ef39dfeefd68e0a1bc22811cee618db7c/propose and notify grants.lead@lexdao.org that you've done it.
 
-We'll decide later how $LxGrntCrd will be honored or how it'll be redeemed, but $LxGrntCrd likely include redemption for a max percentage of total hours contributed to work for membership.
+We'll decide later how $LxGrntCrd will be honored or how it'll be redeemed, but $LxGrntCrd will likely include redemption for a max percentage of total hours contributed to work for membership. Please note that if you do not honor this attestation, we migth have to shut down the experiment via our at least 52% at all times majority:
+
+* "I promise not to trade $LxGrntCrd with another person unless a proposal passes in this credKali that allows me to do so; I acknowledge that lexgrants.eth might toggle $LxGrntCrd back to non-transferable if I break my promise not to trade $LxGrntCrd."
 
 You do not need to be a [LexDAO member](https://lexdao.org/membership) to qualify.
 
@@ -108,7 +110,9 @@ https://content.wrappr.wtf/ipfs/QmNuaJC8v1BsvVCT2jmzbQqMj3jt4qyYDAfDomVfNi8DYb
 
 LexDAO Grants will always retain at least 52% of the supply at all times. 
 
-In other words, only 48% of supply can be in circulation.
+In other words, only 48% of supply can be in circulation. 
+
+So, with our current fixed supply of 1,000,000 tokens, **a maximum of less than 520,000 tokens can enter circulation**.
 
 Our requirement is over 50%, but Kali defaults to at least 52%.
 
