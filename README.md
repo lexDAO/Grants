@@ -2,7 +2,7 @@
 
 Please reach out to grants.lead@lexdao.org if you would like to request a grant. 
 
-Currently, we are only approving grants requested by LexDAO members 
+Currently, we are only approving grants requested by [LexDAO members](https://lexdao.org/membership).
 
 If your grant is approved, it'll go through this process:
 
@@ -12,7 +12,9 @@ If your grant is approved, it'll go through this process:
 
 Most grants that get to the published Github request stage are approved, but not all. The ones that aren't approved still receive reasons about why we made the decision.
 
-# introducing $LxGrntCrd
+# get $LxGrntCrd!
+
+Why? Be part of a institutional DAO localism experiment 
 
 Active rewards are listed at https://github.com/lexDAO/Grants/tree/main/rewards .
 
@@ -20,7 +22,7 @@ You do not need to be a [LexDAO member](https://lexdao.org/membership) to qualif
 
 ## how to request a reward
 
-Go to https://app.kali.gg/daos/42161/0x03d5222ef39dfeefd68e0a1bc22811cee618db7c/propose .
+Go to our "credKali" instance at https://app.kali.gg/daos/42161/0x03d5222ef39dfeefd68e0a1bc22811cee618db7c/propose .
 
 Fill out the Title and Details like so:
 
@@ -82,7 +84,7 @@ Here's a screenshot of our $LxGrntCrd credKali system:
 
 https://arbiscan.io/address/0x03d5222ef39dfeefd68e0a1bc22811cee618db7c
 
-This is an ETH localism fast-turnaround experiment. It's specifically about localism in DAOs, though ETH localism in general is also about local DAOs.
+This is an ETH localism fast-turnaround experiment (constitutional). It's specifically about localism in DAOs (instutional), though ETH localism in general is also about local DAOs (extitutional). The vanishing point set is `constitute( institute( constitute ) , extitute( constitute ) )` .
 
 ### decipher tip
 
