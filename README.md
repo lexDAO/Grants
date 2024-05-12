@@ -2,7 +2,7 @@
 
 Please reach out to grants.lead@lexdao.org if you would like to request a grant. 
 
-Currently, we are only approving grants requested by [LexDAO members](https://lexdao.org/membership). Our priority are grants for: 
+Currently, we are only approving grants requested by [LexDAO members](https://lexdao.org/membership) or nonprofit business-to-business. Our priority are grants for: 
 
 * measuring and storytelling LexDAO's impact (invest in the Grants Committee)
 * members hosting events or representing LexDAO at events (invest in generating the Events Committee)
