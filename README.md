@@ -14,7 +14,7 @@ Most grants that get to the published Github request stage are approved, but not
 
 # get $LxGrntCrd!
 
-Why? Be part of a institutional DAO localism experiment 
+Why? Be part of a fun institutional DAO localism experiment, gain credibility when you make grant requests and with the DAO in general, maybe get some work for membership hours knocked off.  
 
 Active rewards are listed at https://github.com/lexDAO/Grants/tree/main/rewards .
 
