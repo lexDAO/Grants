@@ -4,7 +4,9 @@
 
 ## summary facts
 
-Extitutional conversation here: ________ 
+Edit or comment on this document here: https://hackmd.io/Uh7HLwKMTBiOBt27-J3X4w
+
+Extitutional conversation here: https://t.me/+OO5PiHsyvVliNmJk 
 
 CER proposal here: https://drive.google.com/file/d/12Lldyqq1YHwAm1RbjfW5Nv1Y-y_T7A35/view?usp=sharing
 
@@ -14,10 +16,10 @@ We've been working with them in the extitutional conversation on the additional 
 
 The two KEs we've landed on:
 
-"1 We think that a KE explaining in a simple way (+ from the perspective of the Commons) what's on GitHub could be very cool, and something you can always use to explain this to people that are not very technical" 
+1. A KE explaining in a simple way, from the perspective of the Commons (https://wiki.p2pfoundation.net/Commons) what's on LexDAO’s GitHub, in the form of a blog article of 10-15 mins reading time, that you can use to explain what LexDAO is concretely building/developing to people that are not technical
 
-"4 We think it would be cool to write an article on the lines of “Understanding Open Legal Tech Commons”, to clarify the purpose and impact of LexDAO using language that resonates with the general public, beyond the realms of blockchain and technology specialists. (the purpose of CER)"
+2. A KE in the form of a blog article titled (preliminary, can be changed) “Understanding Open Legal Tech Commons” to clarify the purpose and impact of LexDAO, using language that resonates with the general public, beyond the realms of blockchain and technology specialists. (this is basically the purpose of the Commons Economy Roadmap!)
 
 ## request
 
-Grants Committee, please respond to this request with a response within a week of us making this request. The sooner the better. Thank you. 
+Grants Committee, please respond to this request with a response within a week of us making this request. The sooner the better. Thank you.
