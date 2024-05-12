@@ -84,7 +84,7 @@ Here's a screenshot of our $LxGrntCrd credKali system:
 
 https://arbiscan.io/address/0x03d5222ef39dfeefd68e0a1bc22811cee618db7c
 
-This is an ETH localism fast-turnaround experiment (constitutional). It's specifically about localism in DAOs (instutional), though ETH localism in general is also about local DAOs (extitutional). The vanishing point set is `constitute( institute( constitute ) , extitute( constitute ) )` .
+This is an ETH localism fast-turnaround experiment (constitutional). It's specifically about localism in DAOs (instutional), though ETH localism in general is also about local DAOs (extitutional). The vanishing point set is `constitute( institute( constitute( ... ) ) , extitute( constitute( ... ) ) )` .
 
 ### decipher tip
 
