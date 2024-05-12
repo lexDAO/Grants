@@ -74,7 +74,7 @@ Inspired by https://thankarb.com/seasons/49?utm_campaign=GG20 , LexDAO Grants Co
 
 Please send your $LxGrntCrd reward request to our credKali at https://app.kali.gg/daos/42161/0x03d5222ef39dfeefd68e0a1bc22811cee618db7c/propose and notify grants.lead@lexdao.org that you've done it.
 
-We'll decide later how $LxGrntCrd will be honored or redeemed for, but it'll likely include redemption for a max amount of hours contributed to work for membership.
+We'll decide later how $LxGrntCrd will be honored or how it'll be redeemed, but $LxGrntCrd likely include redemption for a max percentage of total hours contributed to work for membership.
 
 You do not need to be a [LexDAO member](https://lexdao.org/membership) to qualify.
 
