@@ -18,11 +18,11 @@ We're speaking with the [Hats protocol](https://www.hatsprotocol.xyz/) team as w
 
 As such, if we sponsor this schedule might change:
 
-The MCON schedule is ![image](https://github.com/lexDAO/Grants/assets/3211305/ae56cef3-b0f4-4a9f-b72b-51da9370571a)
+![image](https://github.com/lexDAO/Grants/assets/3211305/f8cd0256-c295-4f82-88c3-3efd6d096064)
 
 Here are the sponsorship packages MCON has offered:
 
-![image](https://github.com/lexDAO/Grants/assets/3211305/f8cd0256-c295-4f82-88c3-3efd6d096064)
+![image](https://github.com/lexDAO/Grants/assets/3211305/ae56cef3-b0f4-4a9f-b72b-51da9370571a)
 
 Do we pick one of these sponsorship packages or not? If not, do we suggest other kinds of collaboration for MCON?
 
