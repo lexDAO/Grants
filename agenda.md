@@ -12,6 +12,8 @@
 - [ ] 
 
 ### admin
+- [ ] discuss the updates to the [charter](https://gitbook.lexdao.net/)
+  - [ ] incorporate grants proposal process in charter into the [github repo](https://github.com/lexDAO/Grants)
 - [ ] start ops process to increase grants monthly minimum
 - [ ] discuss how to get guild to collab on https://github.com/lexDAO/Grants/blob/main/grants_copy.md
 - [ ] discuss creating annual report, hypercerts and other impact metrics
