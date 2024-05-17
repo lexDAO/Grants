@@ -1,5 +1,8 @@
 # Agenda for Weekly Grants Committee calls every Friday at 1500UTC
 ## May 24, 2024
+### status notes
+last week's status notes: https://github.com/lexDAO/Grants/blob/main/status-notes/2024-05-17_Status-Notes.md
+
 ### outstanding requests
 - [ ] idea: LexDAO does stuff at Consensus, request: https://github.com/lexDAO/Grants/blob/main/request/consensus.md
 
@@ -29,6 +32,9 @@
 - [ ] discuss expanding our media and media distribution (invest in the Comms Committee)
       
 ## May 17, 2024
+### status notes
+last week's status notes: https://github.com/lexDAO/Grants/blob/main/status-notes/2024-05-10_Status-Notes.md
+
 ### outstanding requests
 - [x] MCON III $5k sponsorship proposal https://mcon.fun
 - [x] DC DAO Genesis and DC Blockchain Summit retroactive
