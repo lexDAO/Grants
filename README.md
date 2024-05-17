@@ -1,27 +1,3 @@
-# grant request process
-
-Please reach out to grants.lead@lexdao.org if you would like to request a grant. 
-
-Currently, we are only approving grants requested by [LexDAO members](https://lexdao.org/membership) or nonprofit business-to-business. Our priorities are eventually net positive cash flow for LexDAO opportunities focued on: 
-
-* measuring and storytelling LexDAO's impact, with a flywheel included (invest in the Grants Committee)
-* members hosting events or representing LexDAO at events, with a flywheel included (invest in generating the Events Committee)
-* expanding our media and media distribution, with a flywheel included (invest in the Comms Committee)
-
-That means a grant should land in one of these three `TYPE_investment` tags:
-
-1. `report_investment` if it helps tell LexDAO's impact story
-2. `event_investment` if it involves LexDAO hosting events or LexDAO members attending events
-3. `promote_investment` if it helps distribute LexDAO opportunities such as our events, publications and offshoot products or services
-
-If your grant is approved, it'll go through this process:
-
-* after working with you on it, your request will be published by us at https://github.com/lexDAO/Grants/tree/main/request
-* our response will be published at https://github.com/lexDAO/Grants/tree/main/response
-* the outcome will be published at https://github.com/lexDAO/Grants/tree/main/outcome
-
-Most grants that get to the published Github request stage are approved, but not all. The ones that aren't approved still receive reasons about why we made the decision.
-
 # get $LxGrntCrd!
 
 Why? Be part of a fun institutional DAO localism experiment, gain credibility when you make grant requests and with the DAO in general, maybe get some work for membership hours knocked off.  
@@ -125,3 +101,27 @@ Our requirement is over 50%, but Kali defaults to at least 52%.
 We put 0.1 ETH in the $LxGrntCrd treasury to show how the Redemption mechanism could be used in the future, but the choice to allow that will be in LexDAO's sole discretion because, in part, we will always retain at least 52% of the supply.
 
 ![image](https://hackmd.io/_uploads/B1KCelvz0.png)
+
+# grant request process
+
+Please reach out to grants.lead@lexdao.org if you would like to request a grant. 
+
+Currently, we are only approving grants requested by [LexDAO members](https://lexdao.org/membership) or nonprofit business-to-business. Our priorities are eventually net positive cash flow for LexDAO opportunities focued on: 
+
+* measuring and storytelling LexDAO's impact, with a flywheel included (invest in the Grants Committee)
+* members hosting events or representing LexDAO at events, with a flywheel included (invest in generating the Events Committee)
+* expanding our media and media distribution, with a flywheel included (invest in the Comms Committee)
+
+That means a grant should land in one of these three `TYPE_investment` tags:
+
+1. `report_investment` if it helps tell LexDAO's impact story
+2. `event_investment` if it involves LexDAO hosting events or LexDAO members attending events
+3. `promote_investment` if it helps distribute LexDAO opportunities such as our events, publications and offshoot products or services
+
+If your grant is approved, it'll go through this process:
+
+* after working with you on it, your request will be published by us at https://github.com/lexDAO/Grants/tree/main/request
+* our response will be published at https://github.com/lexDAO/Grants/tree/main/response
+* the outcome will be published at https://github.com/lexDAO/Grants/tree/main/outcome
+
+Most grants that get to the published Github request stage are approved, but not all. The ones that aren't approved still receive reasons about why we made the decision.
