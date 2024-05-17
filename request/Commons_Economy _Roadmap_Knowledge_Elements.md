@@ -1,4 +1,4 @@
-##### tags: `grant` `proposal` 
+##### tags: `grant` `proposal` `request` `event`
 
 # Commons Economy Roadmap Knowledge Elements
 
