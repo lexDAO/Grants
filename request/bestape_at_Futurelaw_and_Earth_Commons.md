@@ -1,10 +1,16 @@
-##### tags: `grant` `proposal` `request` `retroactive`
+##### tags: `grant` `proposal` `request` `retroactive` `event_investment`
 
 # bestape at Futurelaw and Earth Commons
 
-## summary facts
+## links
 
 Edit or comment on this document here: https://hackmd.io/KkkOHYtLS_C-7guk9MlAuw
+
+Institutional conversation here: https://discord.com/channels/682960432272506907/1215060855356391464
+
+Extitutional conversation here: DM https://t.me/bestape and he'll add you to the group. 
+
+## summary facts
 
 Stanford proposal here: https://drive.google.com/file/d/1Q0CwyNa5OgLkIaLTiFF3GqbQY7cUUhpo/view?usp=sharing
 
