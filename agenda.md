@@ -22,6 +22,7 @@ last week's status notes: https://github.com/lexDAO/Grants/blob/main/status-note
 - [ ] discuss the updates to the [charter](https://gitbook.lexdao.net/)
 - [ ] incorporate grants proposal process in charter into the [github repo](https://github.com/lexDAO/Grants)
 - [ ] start ops process to increase grants monthly minimum
+- [ ] revisit burn rate https://discord.com/channels/682960432272506907/1067166603596275861/1241105382365986927
 - [ ] discuss how to get guild to collab on https://github.com/lexDAO/Grants/blob/main/grants_copy.md
 - [ ] discuss creating annual report, hypercerts and other impact metrics
 - [ ] discuss hosting events and getting support from Vitalia, MetaCartel, Vibes Camp
