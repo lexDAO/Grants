@@ -1,5 +1,12 @@
-###### tags: `grant` `proposal`
+###### tags: `grant` `proposal` `request` `retroactive`
 
+# links
+
+Edit or comment on this document here: https://hackmd.io/hPdchveiRbe5QbWeUylZvg
+
+Extitutional conversation here: https://t.me/+JndALNkQ9SViN2Ux
+
+# header
 ---
 title:
 description:
