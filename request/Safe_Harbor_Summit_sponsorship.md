@@ -1,10 +1,12 @@
-##### tags: `grant` `proposal` `request` `retroactive`
+##### tags: `grant` `proposal` `request` `retroactive` `event_investment`
 
 # Safe Harbor Summit sponsorship
 
 ## links
 
 Edit or comment on this document here: https://hackmd.io/Vq07b7-FQz2wayfjZ-0cQQ
+
+Institutional conversation here: https://discord.com/channels/682960432272506907/1220193052631765003
 
 Extitutional conversation here: DM https://t.me/bestape and he'll add you to the group. 
 
