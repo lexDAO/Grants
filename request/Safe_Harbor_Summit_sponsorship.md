@@ -1,4 +1,4 @@
-##### tags: grant proposal request
+##### tags: `grant` `proposal` `request` `retroactive`
 
 # Safe Harbor Summit sponsorship
 
@@ -23,6 +23,8 @@ Some impact from the Summit:
 We informally discussed paying for sponsorship at the Summit. [Vitalia](https://vitalia.city) covered over $5000 in costs and [Ixian](https://Ixian.tech) paid the rest, roughly $2000.
 
 Can LexDAO pay $1000 in sponsorship? This will also include translating the Summit's transcripts into easily digestible knowledge trees, assuming our conversations with the provider continue to develop. We also plan to translate the ETHDenver event's transcript into a knowledge tree, likely starting with. ETHDenver since the transcript is already available.
+
+bestape's reflections are here https://github.com/lexDAO/LexDAO-Articles/blob/master/Event-Artifacts/2024-05_LexDAO_Event-Artifacts_Safe-Harbor_Bestape.md
 
 ## request
 
