@@ -8,6 +8,8 @@ Edit or comment on this document here: [https://hackmd.io/pR0SQpezRnqMCgw--ZJQIA
 
 Extitutional conversation here: https://t.me/+6qWaezCl4RRmMzRh 
 
+Institutional conversation here: https://discord.com/channels/682960432272506907/1241115654564614295
+
 Q proposal here: https://docs.google.com/presentation/d/1d8tZRZCDMPiGWSeECjuJdhq4Byz7VpghIucff2akKg4/edit?usp=sharing
 
 ## summary facts
