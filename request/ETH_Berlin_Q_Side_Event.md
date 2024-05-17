@@ -1,4 +1,4 @@
-##### tags: `grant` `proposal` `request`
+##### tags: `grant` `proposal` `request` `event_investment`
 
 # ETH Berlin Q Side Event
 
