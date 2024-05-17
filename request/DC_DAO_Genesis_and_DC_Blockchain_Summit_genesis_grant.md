@@ -6,6 +6,8 @@
 
 Edit or comment on this document here: https://hackmd.io/FA-Q_dDGTFmR249L57-vgw
 
+Institutional conversation here: https://discord.com/channels/682960432272506907/1238889242818641921
+
 ## summary facts
 
 bestape attended DAO DC genesis at [ethdc.xyz](ethdc.xyz) and represented LexDAO while there. The ticket costed $200 USD.
