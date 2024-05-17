@@ -6,7 +6,7 @@
 
 Edit or comment on this document here: https://hackmd.io/VSxBHabAQTmdQx4LSZ1WPg
 
-Extitutional conversation here: DM https://t.me/bestape and he'll add you to the group. 
+Extitutional conversation here: https://t.me/+kt2vsCHTItBjNjUx  
 
 MCON proposal here: https://drive.google.com/file/d/1YrqKIJriNYXdhqYayjANCTme0kEiBERv/view?usp=sharing
 
