@@ -1,4 +1,4 @@
-##### tags: `grant` `proposal` `request` `retroactive`
+##### tags: `grant` `proposal` `request` `retroactive` `event_investment`
 
 # DC DAO Genesis and DC Blockchain Summit genesis grant
 
