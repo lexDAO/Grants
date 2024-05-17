@@ -4,6 +4,8 @@
 
 ## summary facts
 
+Company: https://www.commonseconomy.org/
+
 Edit or comment on this document here: https://hackmd.io/Uh7HLwKMTBiOBt27-J3X4w
 
 Extitutional conversation here: https://t.me/+OO5PiHsyvVliNmJk 
@@ -11,6 +13,8 @@ Extitutional conversation here: https://t.me/+OO5PiHsyvVliNmJk
 CER proposal here: https://drive.google.com/file/d/12Lldyqq1YHwAm1RbjfW5Nv1Y-y_T7A35/view?usp=sharing
 
 Do we give them $500 per additional knowledge element "KE" for a maximum of two elements?
+
+The already produced artifact: https://docs.google.com/document/d/1Spepip82i31lZ3wwEF8-ppAbhJH3s5kd3OfYLC7UTnI/edit?usp=sharing
 
 We've been working with them in the extitutional conversation on the additional KEs.
 
