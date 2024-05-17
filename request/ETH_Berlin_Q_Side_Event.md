@@ -1,14 +1,16 @@
-##### tags: `grant` `proposal` 
+##### tags: `grant` `proposal` `request`
 
 # ETH Berlin Q Side Event
 
-## summary facts
+## links
 
 Edit or comment on this document here: [https://hackmd.io/pR0SQpezRnqMCgw--ZJQIA](https://hackmd.io/pR0SQpezRnqMCgw--ZJQIA)
 
-Extitutional conversation here: DM https://t.me/bestape and he'll add you to the group 
+Extitutional conversation here: https://t.me/+6qWaezCl4RRmMzRh 
 
 Q proposal here: https://docs.google.com/presentation/d/1d8tZRZCDMPiGWSeECjuJdhq4Byz7VpghIucff2akKg4/edit?usp=sharing
+
+## summary facts
 
 LexDAO member Paolo is speaking at Q's ETHBerlin side event. He has asked us if we're interested in becoming a Q sponsor.
 
