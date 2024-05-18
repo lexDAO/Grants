@@ -125,3 +125,18 @@ If your grant is approved, it'll go through this process:
 * the outcome will be published at https://github.com/lexDAO/Grants/tree/main/outcome
 
 Most grants that get to the published Github request stage are approved, but not all. The ones that aren't approved still receive reasons about why we made the decision.
+
+# charter
+
+Our current spend without asking the DAO for permission is a maximum of $2000/month .
+
+Ratified at https://snapshot.org/#/lexdao.eth/proposal/0xc4385c150de0d216acb3c89179ced53917144c207fa040ed81ae7ff83bfb1008 .
+
+![image](https://github.com/lexDAO/Grants/assets/3211305/e0ac0af6-55de-421a-b7d8-4d1fe9c1c020)
+![image](https://github.com/lexDAO/Grants/assets/3211305/21804e76-036f-463b-bf62-dbf50b8cab95)
+![image](https://github.com/lexDAO/Grants/assets/3211305/6e80aa30-0631-47f9-a3d3-019534bbe9ff)
+![image](https://github.com/lexDAO/Grants/assets/3211305/833c6d50-3f05-4078-b772-e6a1f1384c92)
+![image](https://github.com/lexDAO/Grants/assets/3211305/d42f85a5-77ec-416c-8398-ea78a28301ba)
+![image](https://github.com/lexDAO/Grants/assets/3211305/da9b3298-e208-4fe8-bbaf-c803361e8118)
+![image](https://github.com/lexDAO/Grants/assets/3211305/8817e1b0-6935-4a4c-bc1f-4ca84da6b84f)
+
