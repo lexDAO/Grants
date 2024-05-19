@@ -1,19 +1,19 @@
-##### tags: `grant` `proposal` 
+=======
+##### tags: `grant` `proposal` `request` `event_investment`
 
 # ETH Berlin Q Side Event
 
-## summary facts
+## links
 
+Edit or comment on this document here: [https://hackmd.io/pR0SQpezRnqMCgw--ZJQIA](https://hackmd.io/pR0SQpezRnqMCgw--ZJQIA)
 
+Extitutional conversation here: https://t.me/+6qWaezCl4RRmMzRh 
 
-[ETH Berlin Q Side Event Proposal](https://hackmd.io/rRom9nTpTbaoq4p5D7zX9g?view)
-
-
-
-
-Extitutional conversation here: DM https://t.me/bestape and he'll add you to the group 
+Institutional conversation here: https://discord.com/channels/682960432272506907/1241115654564614295
 
 Q proposal here: https://docs.google.com/presentation/d/1d8tZRZCDMPiGWSeECjuJdhq4Byz7VpghIucff2akKg4/edit?usp=sharing
+
+## summary facts
 
 LexDAO member Paolo is speaking at Q's ETHBerlin side event. He has asked us if we're interested in becoming a Q sponsor.
 
@@ -21,11 +21,4 @@ LexDAO member Paolo is speaking at Q's ETHBerlin side event. He has asked us if 
 
 Do we pick one of these sponsorship packages or not?
 
-Edit or comment on this document here: [https://hackmd.io/pR0SQpezRnqMCgw--ZJQIA](https://hackmd.io/pR0SQpezRnqMCgw--ZJQIA)
 
-## request
-
-Grants Committee, please respond to this request with a response before May 15. The sooner the better. Thank you.
-
-!-->
-Per @trtius 
