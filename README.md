@@ -1,21 +1,3 @@
-# grant request process
-
-Please reach out to grants.lead@lexdao.org if you would like to request a grant. 
-
-Currently, we are only approving grants requested by [LexDAO members](https://lexdao.org/membership) or nonprofit business-to-business. Our priority are grants for: 
-
-* measuring and storytelling LexDAO's impact (invest in the Grants Committee)
-* members hosting events or representing LexDAO at events (invest in generating the Events Committee)
-* expanding our media and media distribution (invest in the Comms Committee)
-
-If your grant is approved, it'll go through this process:
-
-* after working with you on it, your request will be published by us at https://github.com/lexDAO/Grants/tree/main/request
-* our response will be published at https://github.com/lexDAO/Grants/tree/main/response
-* the outcome will be published at https://github.com/lexDAO/Grants/tree/main/outcome
-
-Most grants that get to the published Github request stage are approved, but not all. The ones that aren't approved still receive reasons about why we made the decision.
-
 # get $LxGrntCrd!
 
 Why? Be part of a fun institutional DAO localism experiment, gain credibility when you make grant requests and with the DAO in general, maybe get some work for membership hours knocked off.  
@@ -119,3 +101,42 @@ Our requirement is over 50%, but Kali defaults to at least 52%.
 We put 0.1 ETH in the $LxGrntCrd treasury to show how the Redemption mechanism could be used in the future, but the choice to allow that will be in LexDAO's sole discretion because, in part, we will always retain at least 52% of the supply.
 
 ![image](https://hackmd.io/_uploads/B1KCelvz0.png)
+
+# grant request process
+
+Please reach out to grants.lead@lexdao.org if you would like to request a grant. 
+
+Currently, we are only approving grants requested by [LexDAO members](https://lexdao.org/membership) or nonprofit business-to-business. Our priorities are eventually net positive cash flow for LexDAO opportunities focued on: 
+
+* measuring and storytelling LexDAO's impact, with a flywheel included (invest in the Grants Committee)
+* members hosting events or representing LexDAO at events, with a flywheel included (invest in generating the Events Committee)
+* expanding our media and media distribution, with a flywheel included (invest in the Comms Committee)
+
+That means a grant should land in one of these three `TYPE_investment` tags:
+
+1. `report_investment` if it helps tell LexDAO's impact story
+2. `event_investment` if it involves LexDAO hosting events or LexDAO members attending events
+3. `promote_investment` if it helps distribute LexDAO opportunities such as our events, publications and offshoot products or services
+
+If your grant is approved, it'll go through this process:
+
+* after working with you on it, your request will be published by us at https://github.com/lexDAO/Grants/tree/main/request
+* our response will be published at https://github.com/lexDAO/Grants/tree/main/response
+* the outcome will be published at https://github.com/lexDAO/Grants/tree/main/outcome
+
+Most grants that get to the published Github request stage are approved, but not all. The ones that aren't approved still receive reasons about why we made the decision.
+
+# charter
+
+Our current spend without asking the DAO for permission is a maximum of $2000/month .
+
+Ratified at https://snapshot.org/#/lexdao.eth/proposal/0xc4385c150de0d216acb3c89179ced53917144c207fa040ed81ae7ff83bfb1008 .
+
+![image](https://github.com/lexDAO/Grants/assets/3211305/e0ac0af6-55de-421a-b7d8-4d1fe9c1c020)
+![image](https://github.com/lexDAO/Grants/assets/3211305/21804e76-036f-463b-bf62-dbf50b8cab95)
+![image](https://github.com/lexDAO/Grants/assets/3211305/6e80aa30-0631-47f9-a3d3-019534bbe9ff)
+![image](https://github.com/lexDAO/Grants/assets/3211305/833c6d50-3f05-4078-b772-e6a1f1384c92)
+![image](https://github.com/lexDAO/Grants/assets/3211305/d42f85a5-77ec-416c-8398-ea78a28301ba)
+![image](https://github.com/lexDAO/Grants/assets/3211305/da9b3298-e208-4fe8-bbaf-c803361e8118)
+![image](https://github.com/lexDAO/Grants/assets/3211305/8817e1b0-6935-4a4c-bc1f-4ca84da6b84f)
+

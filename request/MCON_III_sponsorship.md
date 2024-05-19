@@ -1,4 +1,4 @@
-##### tags: `grant` `proposal` `request`
+##### tags: `grant` `proposal` `request` `event_investment`
 
 # MCON III sponsorship
 
@@ -6,7 +6,9 @@
 
 Edit or comment on this document here: https://hackmd.io/VSxBHabAQTmdQx4LSZ1WPg
 
-Extitutional conversation here: DM https://t.me/bestape and he'll add you to the group. 
+Extitutional conversation here: https://t.me/+kt2vsCHTItBjNjUx
+
+Institutional conversation here: https://discord.com/channels/682960432272506907/1220189741912293527
 
 MCON proposal here: https://drive.google.com/file/d/1YrqKIJriNYXdhqYayjANCTme0kEiBERv/view?usp=sharing
 
