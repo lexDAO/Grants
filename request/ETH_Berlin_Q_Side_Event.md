@@ -1,3 +1,4 @@
+=======
 ##### tags: `grant` `proposal` `request` `event_investment`
 
 # ETH Berlin Q Side Event
@@ -20,6 +21,4 @@ LexDAO member Paolo is speaking at Q's ETHBerlin side event. He has asked us if 
 
 Do we pick one of these sponsorship packages or not?
 
-## request
 
-Grants Committee, please respond to this request with a response before May 15. The sooner the better. Thank you.
