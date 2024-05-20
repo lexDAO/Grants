@@ -19,6 +19,7 @@ last week's status notes: https://github.com/lexDAO/Grants/blob/main/status-note
 - [ ] 
 
 ### admin
+- [ ] discuss putting $2000 per month aside for grants team discretionary spending based on Grants Committee charter
 - [ ] discuss the updates to the [charter](https://gitbook.lexdao.net/)
 - [ ] incorporate grants proposal process in charter into the [github repo](https://github.com/lexDAO/Grants)
 - [ ] start ops process to increase grants monthly minimum
