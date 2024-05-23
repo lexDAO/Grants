@@ -1,6 +1,6 @@
 ## eligible activities for rewards
 
-### retweet/X a x.com/lex_dao post about donating to lexdaogrant.us
+### retweet/X a x.com/lex_dao post about donating to lexdaogrant.us or about becoming a LexDAO member
 
 #### 1 LxGrntCrd, Infinite supply
 
