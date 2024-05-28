@@ -8,9 +8,9 @@ Request at: https://github.com/lexDAO/Grants/blob/main/request/Commons_Economy_R
 
 ## Committee decision
 
-The Committee will use the Lead's reasons.
+The Committee will follow the next steps outlined in the Lead's reasons.
 
-## bestape Lead reasons
+## bestape reasons (Lead)
 
 From https://github.com/lexDAO/Grants#grant-request-process , the Grant's Committee's current goals are:
 
