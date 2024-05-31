@@ -1,11 +1,16 @@
 # Agenda for Weekly Grants Committee calls every Friday at 1500UTC
 ## May 31, 2024
 ### Key Proposals
- - [ ] [Future Law Budget Request](https://hackmd.io/KkkOHYtLS_C-7guk9MlAuw): $500 reimbursement
+ - [ ] [Future Law Budget Request](https://hackmd.io/KkkOHYtLS_C-7guk9MlAuw): $500 reimbursement.  
+    - [x] Tentative Approval
+    - [ ] @bestape put up snapshot for formal Grants Vote
  
- - [ ] [Commons Economy Knowledge Element](https://hackmd.io/Uh7HLwKMTBiOBt27-J3X4w): Approved by Tertius.
+ - [ ] [Commons Economy Knowledge Element](https://hackmd.io/Uh7HLwKMTBiOBt27-J3X4w:
+  - [x] Approved by Tertius.
+  - [x] Cimply approved (1 KE)
+  - [x] Cimply to vote on the Snapshot
 
-  - [ ] [DC DAO Genesis](https://github.com/lexDAO/Grants/blob/main/request/DC_DAO_Genesis_and_DC_Blockchain_Summit_genesis_grant.md): This appears to be a request for reimbursement of $947.72 USD.  Would support payment of this amount but in the future we should talk about events like this in advance.   
+  - [ ] [DC DAO Genesis](https://github.com/lexDAO/Grants/blob/main/request/DC_DAO_Genesis_and_DC_Blockchain_Summit_genesis_grant.md): This appears to be a request for reimbursement of $947.72 USD.  Would support payment of this amount but in the future we should talk about events like this in advance and with receipts.   
 
   - [ ] [ETH Berlin](https://github.com/lexDAO/Grants/edit/main/request/ETH_Berlin_Q_Side_Event.md): Paolo attended and did not require any reimbursement.  He was approved for $500.
 
