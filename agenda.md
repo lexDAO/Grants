@@ -13,6 +13,8 @@
 
    - [ ] [MCON III](https://github.com/lexDAO/Grants/blob/main/request/MCON_III_sponsorship.md): Requesting a sponsorship of $5K, $10K, or $20K.  Mostly for branding.  No other key offerings identified.
 
+   - [ ] [Safe Harbor](https://github.com/lexDAO/Grants/blob/main/request/Safe_Harbor_Summit_sponsorship.md): Request for funds to sponsor having transcripts translated.  As a side note, Cimply has already transcribeed ETH Denver and produced one of the 6 videos.  Also posted the scripts used to do so in GitHUB.
+
 - [ ] discuss putting $2000 per month aside for grants team discretionary spending based on Grants Committee charter
 - [ ] discuss the updates to the [charter](https://gitbook.lexdao.net/)
 - [ ] incorporate grants proposal process in charter into the [github repo](https://github.com/lexDAO/Grants)
