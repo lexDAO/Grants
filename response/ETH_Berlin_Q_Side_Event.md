@@ -10,6 +10,9 @@ Request at: https://github.com/lexDAO/Grants/blob/main/request/ETH_Berlin_Q_Side
 
 ## Committee decision
 
+
+
+
 The Committee will use bestape's reasons.
 
 ## bestape reasons
@@ -44,4 +47,5 @@ What other members can do to help:
 ## Tertius reasons
 
 ## Cimply reasons
+Per Cimply - Request was approved for $500.  Discussed the Q node Sponsorship.  Q Node cost of $1000 was declined by committee.  Paolo did not need the money and so the request is closed.
 
