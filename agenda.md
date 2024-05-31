@@ -1,4 +1,27 @@
 # Agenda for Weekly Grants Committee calls every Friday at 1500UTC
+## May 31, 2024
+### Key Proposals
+ - [ ] [Future Law Budget Request](https://hackmd.io/KkkOHYtLS_C-7guk9MlAuw): $500 reimbursement
+ 
+ - [ ] [Commons Economy Knowledge Element](https://hackmd.io/Uh7HLwKMTBiOBt27-J3X4w): Approved by Tertius.
+
+  - [ ] [DC DAO Genesis](https://github.com/lexDAO/Grants/blob/main/request/DC_DAO_Genesis_and_DC_Blockchain_Summit_genesis_grant.md): This appears to be a request for reimbursement of $947.72 USD.  Would support payment of this amount but in the future we should talk about events like this in advance.   
+
+  - [ ] [ETH Berlin](https://github.com/lexDAO/Grants/edit/main/request/ETH_Berlin_Q_Side_Event.md): Paolo attended and did not require any reimbursement.  He was approved for $500.
+
+  - [ ] [Consensus Funding](https://github.com/lexDAO/Grants/blob/main/request/consensus.md): Tertius is going and will require reimbursement.  Looking at an approved budget of $1500 with reimbursement for expenses.
+
+   - [ ] [MCON III](https://github.com/lexDAO/Grants/blob/main/request/MCON_III_sponsorship.md): Requesting a sponsorship of $5K, $10K, or $20K.  Mostly for branding.  No other key offerings identified.
+
+- [ ] discuss putting $2000 per month aside for grants team discretionary spending based on Grants Committee charter
+- [ ] discuss the updates to the [charter](https://gitbook.lexdao.net/)
+- [ ] incorporate grants proposal process in charter into the [github repo](https://github.com/lexDAO/Grants)
+- [ ] start ops process to increase grants monthly minimum
+- [ ] revisit burn rate https://discord.com/channels/682960432272506907/1067166603596275861/1241105382365986927
+- [ ] discuss how to get guild to collab on https://github.com/lexDAO/Grants/blob/main/grants_copy.md
+- [ ] discuss creating annual report, hypercerts and other impact metrics
+- [ ] discuss hosting events and getting support from Vitalia, MetaCartel, Vibes Camp
+
 ## May 24, 2024
 ### status notes
 last week's status notes: https://github.com/lexDAO/Grants/blob/main/status-notes/2024-05-17_Status-Notes.md
