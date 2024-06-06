@@ -1,4 +1,16 @@
 # Agenda for Weekly Grants Committee calls every Friday at 1500UTC
+## Jun 07, 2024
+### Key Proposals
+
+- [ ] Snapshot for [ETH Berlin Q Side Event](https://snapshot.org/#/lexgrant.eth/proposal/0x63a8b65cc7846335bbe2a1046ae42bce902d98822816780d801ec8bfe602e9b7
+- [ ] Snapshot for [Descier Grant for JoLE](https://snapshot.org/#/lexgrant.eth/proposal/0x69d532aa14e6fb4478eb380581ff49c3bef8adaf7854d3f4180cdbddf9394bea)
+- [ ] update on streamlining the $500 grant to attend a conference as a lexDAO member
+- [ ] update on Clinamenic's hypercerts
+- [ ] Commons Economy Knowledge elements now published, review
+- [ ] discuss EdgeCity
+- [ ] discuss MCON III
+- [ ] discuss Zuzalu Georgia
+
 ## May 31, 2024
 ### Key Proposals
  - [ ] [Future Law Budget Request](https://hackmd.io/KkkOHYtLS_C-7guk9MlAuw): $500 reimbursement.  
