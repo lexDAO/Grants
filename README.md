@@ -1,3 +1,5 @@
+Voting Record: [https://snapshot.org/#/lexgrant.eth](https://snapshot.org/#/lexgrant.eth)
+
 # get $LxGrntCrd!
 
 Why? Be part of a fun institutional DAO localism experiment, gain credibility when you make grant requests and with the DAO in general, maybe get some work for membership hours knocked off.  
