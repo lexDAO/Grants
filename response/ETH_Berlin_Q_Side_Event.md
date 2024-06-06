@@ -1,23 +1,16 @@
 ##### tags: `grant` `proposal` `response` `event_investment`
 
-# -- -- -- work in progress, not the final decision -- -- --
-
 # ETH Berlin Q Side Event
 
--- -- -- replace request link with specific commit link when finalizing decision -- -- --
-
-Request at: https://github.com/lexDAO/Grants/blob/main/request/ETH_Berlin_Q_Side_Event.md 
+Request at: https://github.com/lexDAO/Grants/blob/main/request/ETH_Berlin_Q_Side_Event.md
 
 ## Committee decision
 
+Paolo has retracted his request. Therefore, no funds will be sent to Paolo. Despite that, here is our reasoning below as potential precedent for future requests.
 
+## bestape reasons (Lead)
 
-
-The Committee will use bestape's reasons.
-
-## bestape reasons
-
-Paolo gets a $1000 grant to represent LexDAO at ETHBerlin if he agrees to attempt these LexDAO investments:
+~~Paolo gets a $1000 grant~~ to represent LexDAO at ETHBerlin if he agrees to attempt these LexDAO investments:
 
 * get new signups for lexdao.org/membership
 * get new signups for lexdao.substack.com
