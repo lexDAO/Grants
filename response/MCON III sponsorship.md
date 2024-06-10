@@ -1,6 +1,12 @@
 ##### tags: `grant` `proposal` `response` `event_investment`
 
 # MCON3 sponsorship
+## Sponsorship Details
+MCON is requesting $5K from LexDAO to help support the MCON III event in Denver on September 26-28.  As part of this sponsorship, we expect to receive:
+
+[comment]: @kyler please include the details of the sponsorship once you have completed your discussions with the MCON Team.  We'll also want to include some provisional budget for the LexDAO work that will go alongside the sponsorship.  See Cimply comments below for suggestions.
+
+
 
 Comment on this response here: https://hackmd.io/rRom9nTpTbaoq4p5D7zX9g
 
@@ -8,9 +14,10 @@ Request at: https://github.com/lexDAO/Grants/blob/087a75822afac3dab85089a1817cf6
 
 ## Committee decision
 
-The Committee approves. The $5000 sponsorship amount is high enough, and the value add of sharing with the news with the entire DAO is good enough, that we recommend this goes to a DAO-wide vote.
+The Committee ~~approves~~ supports the DAO Sponsorship of MCON III. Given that this is a large sponsorship representing a substantial investment of time and resources to execute, we recommend the membership evaluate the opportunity, comment, and decide on whether to allocate budget based on the merits of the proposal.
+~~The $5000 sponsorship amount is high enough, and the value add of sharing with the news with the entire DAO is good enough, that we recommend this goes to a DAO-wide vote.~~
 
-We recommend the entire DAO unanimously votes yes, to signal our excitement to the MCON community.
+~~We recommend the entire DAO unanimously votes yes, to signal our excitement to the MCON community.~~
 
 ## bestape reasons (Lead)
 
