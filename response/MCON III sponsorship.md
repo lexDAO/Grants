@@ -64,6 +64,16 @@ As part of this sponsorship I am recommending that we create a pod to begin deve
 
 A full breakdown on who from the DAO is being covered for travel, room-and-board, as well as any incidental expenses.  Recommending that the max budget should not exceed $10K including the sponsorship of approximately $5K.
 
+## LexEd posture (@drllau)
+
+The operational tempo is set by Opus by cadence by the activities. 
+
+![attract-engage-foster](https://photos.app.goo.gl/yNJh9QkSX8FQe1ND8)
+
+@pmgandi points out the StudyGroups are to 
+> create interesting from an intellectual POV events (at mo) open debates about topics of interest for lawyers and legal engineers 
+
+which attracks (emerging) thought leaders in computational law that can deeply engage members of LexDAO in projects (such as hackathons or 
 ### next steps
 - [ ] finalize budget projection for entire event
 - [ ] move this to a DAO-wide vote
