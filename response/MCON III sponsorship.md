@@ -17,7 +17,7 @@ Comment on this response here: https://hackmd.io/rRom9nTpTbaoq4p5D7zX9g
 
 Request at: https://github.com/lexDAO/Grants/blob/087a75822afac3dab85089a1817cf690fd45034f/request/MCON_III_sponsorship.md
 
-## Committee decision
+## Committee ~~decision~~ Feedback
 
 The Committee ~~approves~~ supports the DAO Sponsorship of MCON III. Given that this is a large sponsorship representing a substantial investment of time and resources to execute, we recommend the membership evaluate the opportunity, comment, and decide on whether to allocate budget based on the merits of the proposal.
 ~~The $5000 sponsorship amount is high enough, and the value add of sharing with the news with the entire DAO is good enough, that we recommend this goes to a DAO-wide vote.~~
