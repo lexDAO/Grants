@@ -51,11 +51,6 @@ Because MCON believes so deeply in our 'law is a public good' mission, We are ge
 
 I approve the grant for the basic tier sponsorship at $5000 and hope the entire DAO votes yes to fund with the general treasury pool.
 
-### next steps
-
-- [ ] move this to a DAO-wide vote
-- [ ] recommend the entire DAO votes yes
-
 ## Tertius reasons
 
 Please see Snapshot comments, if any.
@@ -68,3 +63,10 @@ MCON III is a 4 day event centered primarily around Community, Governance, and P
 As part of this sponsorship I am recommending that we create a pod to begin developing a content plan, events calendar, presence, PR, and core attendee list.  A curated group of speakers on behalf of LexDAO as well as side events should be well-structured and supported with a dedicated communications plan.  In addition, a membership initiative focused on collecting "mailing list" information for prospects with a membership packet should be created.
 
 A full breakdown on who from the DAO is being covered for travel, room-and-board, as well as any incidental expenses.  Recommending that the max budget should not exceed $10K including the sponsorship of approximately $5K.
+
+### next steps
+- [ ] finalize budget projection for entire event
+- [ ] move this to a DAO-wide vote
+~~- [ ] recommend the entire DAO votes yes~~
+
+
