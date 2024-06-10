@@ -6,7 +6,12 @@ MCON is **requesting $5K** from LexDAO to help support the **MCON III** event in
 
 [comment]: @kyler please include the details of the sponsorship once you have completed your discussions with the MCON Team.  We'll also want to include some provisional budget for the LexDAO work that will go alongside the sponsorship.  See Cimply comments below for suggestions.
 
-
+### Total Expected Allocation
+ - Sponsorship: $5,000 USD
+ - Collateral: [Insert Budget for Swag, etc]
+ - Travel + Room and Board: [Insert budget for travel etc]
+ - Per Diem: [Insert Budget]
+ - Side Events: [Insert Budget]
 
 Comment on this response here: https://hackmd.io/rRom9nTpTbaoq4p5D7zX9g
 
