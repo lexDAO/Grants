@@ -2,7 +2,7 @@
 
 # MCON3 sponsorship
 ## Sponsorship Details
-MCON is requesting $5K from LexDAO to help support the MCON III event in Denver on September 26-28.  As part of this sponsorship, we expect to receive:
+MCON is **requesting $5K** from LexDAO to help support the MCON III event in **Denver** on **September 26-28**.  As part of this sponsorship, we expect to receive:
 
 [comment]: @kyler please include the details of the sponsorship once you have completed your discussions with the MCON Team.  We'll also want to include some provisional budget for the LexDAO work that will go alongside the sponsorship.  See Cimply comments below for suggestions.
 
