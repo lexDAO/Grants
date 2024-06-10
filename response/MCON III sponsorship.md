@@ -49,5 +49,10 @@ I approve the grant for the basic tier sponsorship at $5000 and hope the entire 
 Please see Snapshot comments, if any.
 
 ## Cimply reasons
+MCON is hosted by MetaCartel and EigenLayer.  Based on our most recent partnership work with MetaCartel in ETH Denver, continuing to support their in-person events is beneficial to LexDAO.  The ETH Denver partnership was a 6 part series of well constructed on-stage events that resulted in hours of well-produced online content and good exposure for what we are working on as an organization.
 
-Please see Snapshot comments, if any.
+MCON III is a 4 day event centered primarily around Community, Governance, and Public Goods initiatives.  The community that attends is dense and builder oriented.  The sposorship is expensive which is a cause for some caution, but the outputs of prior sponsorships with MetaCartel have been successful.
+
+As part of this sponsorship I am recommending that we create a pod to begin developing a content plan, events calendar, presence, PR, and core attendee list.  A curated group of speakers on behalf of LexDAO as well as side events should be well-structured and supported with a dedicated communications plan.  In addition, a membership initiative focused on collecting "mailing list" information for prospects with a membership packet should be created.
+
+A full breakdown on who from the DAO is being covered for travel, room-and-board, as well as any incidental expenses.  Recommending that the max budget should not exceed $10K including the sponsorship of approximately $5K.
