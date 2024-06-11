@@ -2,7 +2,7 @@
 
 # MCON3 sponsorship
 
-Comment on this response here: https://hackmd.io/rRom9nTpTbaoq4p5D7zX9g
+Comment on this response here: https://hackmd.io/4BOfV-o5RluPTrD69gVF2A
 
 Request at: https://github.com/lexDAO/Grants/blob/087a75822afac3dab85089a1817cf690fd45034f/request/MCON_III_sponsorship.md
 
