@@ -1,7 +1,3 @@
----
-title: Grant Committee RfC
----
-
 ##### tags: `grant` `proposal` `response` `event_investment`
 
 # Research on Donation Receipt Issuance
