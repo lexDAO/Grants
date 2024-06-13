@@ -1,4 +1,17 @@
 # Agenda for Weekly Grants Committee calls every Friday at 1500UTC
+## Jun 14, 2024
+### Key Proposals
+
+- [ ] discuss response [README.md](https://github.com/lexDAO/Grants/blob/main/response/README.md) proposed rules
+- [ ] discuss MCON III Snapshot vote at https://snapshot.org/#/lexgrant.eth/proposal/0x0a3171b8b6a8a78cb0453a3c1d9b8e87538e726aeef2690b2fc39a674c15156c and comments at https://hackmd.io/4BOfV-o5RluPTrD69gVF2A
+- [ ] discuss bestape Summer conferences Snapshot vote https://snapshot.org/#/lexgrant.eth/proposal/0xcc78c59aae4daea89991c358ab1be8dbb3eec24193247cb0dc378ca60c231e50
+- [ ] discuss next steps to get Tertius at Consensus from request to response https://hackmd.io/DeH5zh3XSJuI_luHKDUiQw to Snapshot vote, use README.md (Tertius as Grant Champion?)
+- [ ] discuss response to Clinamenic's hypercerts request https://github.com/lexDAO/Grants/blob/main/response/Research_on_Donation_Receipt_Issuance.md
+- [ ] discuss Devcon grants strategy https://blog.ethereum.org/2024/06/07/devcon7-scholars
+- [ ] update on streamlining the $500 grant to attend a conference as a lexDAO member
+- [ ] discuss potential EdgeCity request, week4 when Ramona will be there e.g. https://edgeesmeralda.sola.day/event/detail/7100
+- [ ] discuss LexDAO at Zuzalu Georgia
+
 ## Jun 07, 2024
 ### Key Proposals
 
