@@ -32,7 +32,7 @@ Moreover, Hypercerts gave us $1,188.23 in GG20 to use their technology, so from 
 
 Clinamenic's request is to research developing a donations receipt issuance is not our goal. **Our goal is to measure and evidence impact, and to use our Hypercerts grant to determine if Hypercerts can help us accomplish this goal**. Because we used Hypercerts in the past to issue receipts, we have an expectation that receipts will be one use case. However, we are not a 501\(c)3 so traditional receipts are not tax deductible. 
 
-Therefore, Clinamenic should change his research from about "donation receipt issuance to using Hypercerts" to "how to show impact at LexDAO, and if alternatives do a better job."
+Therefore, Clinamenic should change his research from about "donation receipt issuance by using Hypercerts" to "how to use Hypercerts to show impact at LexDAO, and if alternatives do a better job."
 
 Hypercerts includes financial mechanisms, and so Clinamenic should include a liabilities review of those mechanisms. For instance, though these receipts cannot be used as a tax write-off, they might be useable as a way to send 'thank you' tokens to the receipt holder; what are the implications of this?
 
