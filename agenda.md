@@ -8,6 +8,7 @@
 - [ ] discuss next steps to get Tertius at Consensus from request to response https://hackmd.io/DeH5zh3XSJuI_luHKDUiQw to Snapshot vote, use README.md (Tertius as Grant Champion?)
 - [ ] discuss response to Clinamenic's hypercerts request https://github.com/lexDAO/Grants/blob/main/response/Research_on_Donation_Receipt_Issuance.md
 - [ ] discuss Devcon grants strategy https://blog.ethereum.org/2024/06/07/devcon7-scholars
+- [ ] discuss Confusion Capital $100k grant https://github.com/lexDAO/Grants/blob/main/external/confusionCapMemo.pdf
 - [ ] update on streamlining the $500 grant to attend a conference as a lexDAO member
 - [ ] discuss potential EdgeCity request, week4 when Ramona will be there e.g. https://edgeesmeralda.sola.day/event/detail/7100
 - [ ] discuss LexDAO at Zuzalu Georgia
