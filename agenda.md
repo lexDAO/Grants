@@ -7,7 +7,7 @@
 - [ ] discuss bestape Summer conferences Snapshot vote https://snapshot.org/#/lexgrant.eth/proposal/0xcc78c59aae4daea89991c358ab1be8dbb3eec24193247cb0dc378ca60c231e50
 - [ ] discuss next steps to get Tertius at Consensus from request to response https://hackmd.io/DeH5zh3XSJuI_luHKDUiQw to Snapshot vote, use README.md (Tertius as Grant Champion?)
 - [ ] discuss response to Clinamenic's hypercerts request https://github.com/lexDAO/Grants/blob/main/response/Research_on_Donation_Receipt_Issuance.md
-- [ ] discuss Octant round 4 strategy, starting June 17th
+- [ ] discuss Octant round 4 strategy, starting June 17th, and fill this out together https://octant.fillout.com/t/sMM76jq18Fus
 - [ ] discuss Devcon grants strategy https://blog.ethereum.org/2024/06/07/devcon7-scholars
 - [ ] discuss Confusion Capital $100k grant https://github.com/lexDAO/Grants/blob/main/external/confusionCapMemo.pdf
 - [ ] update on streamlining the $500 grant to attend a conference as a lexDAO member
