@@ -1,3 +1,5 @@
+Please comment on this document here: https://hackmd.io/Fz9wTOc2QgaPR8QPD0agMw .
+
 # rules
 
 1) the Grants Committee shall use court system patterns as inspiration when developing novel processes such as these
