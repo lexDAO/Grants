@@ -1,4 +1,16 @@
 # Agenda for Weekly Grants Committee calls every Friday at 1500UTC
+## Jun 28, 2024
+- [ ] Discussion on Grants Process
+- [ ] Outline of Grants In Opportunities
+- [ ] Process Flowchart for Grants Charter
+- [ ] Hypercerts
+ - [ ] Working on the feature set
+  - [ ] EAS and Attestations
+  - [ ] Minting Hypercerts
+  - [ ] Clarity on Allowlist
+  - [ ] Ox Split Contract 
+
+
 ## Jun 14, 2024
 ### Key Proposals
 
